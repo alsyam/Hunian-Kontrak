@@ -1,0 +1,103 @@
+<main>
+    <div id="content">
+        <article>
+            <h2 id="latar" class="card">Latar Belakang</h2>
+            <p class="paragraf">
+                Pada zaman sekarang kebutuhan akan tempat tinggal sementara masih
+                belum sebanding dengan pertumbuhan masyarakat, Maka dari itu banyak
+                sekali tempat tinggal sementara yang masih belum diketahui tempat
+                serta harganya, Karena pihak penyewa/penjual masih menggunakan media
+                promosi yang dibilang masih konvensional seperti poster,banner dan
+                lain-lain, Akibatnya masyarakat belum bisa menemukan dan menentukan
+                harga serta tempat tinggal sementara yang tepat dengan pilihan serta
+                minat mereka.
+            </p>
+
+            <ul>
+                <li>
+                    <img src="assets/foto/kos5.jpg" class="image-layanan" alt="KOS" />
+                </li>
+                <li>
+                    <img src="assets/foto/kos2.jpg" class="image-layanan" alt="KOS" />
+                </li>
+                <li>
+                    <img src="assets/foto/kos3.jpg" class="image-layanan" alt="KOS" />
+                </li>
+            </ul>
+        </article>
+
+        <article>
+            <h2 id="pelayanan" class="card">Pelayanan</h2>
+            <p class="paragraf">
+                Dalam menyediakan fasilitas tempat tingga sementara dibutuhkan
+                pelayanan yang baik agar konsumen dapat nyaman dan percaya terhadap
+                kosan yang kami tawarkan.<br />
+                Berikut adalah daftar pelayanan yang kami sajikan:
+            </p>
+            <h3>Keamanan</h3>
+            <p>
+                Dilengkapi dengan sistem keamanan CCTV yang tentunya membuat
+                penghunu kos nyaman.
+            </p>
+            <h3>Harga</h3>
+            <p>
+                Kos-kosan dengan harga terjangkau di kelasnya.
+            </p>
+            <h3>Lokasi</h3>
+            <p>
+                Tempat yang strategis dan dekat dengan pusat kota.
+            </p>
+        </article>
+        <article>
+            <h2 id="kontak" class="card">Kontak</h2>
+            <table class="card">
+                <tr>
+                    <th id="thkontak">No Telepon</th>
+                    <th id="thkontak">Email</th>
+                    <th id="thkontak">Rekening</th>
+                </tr>
+                <tr>
+                    <td>085883617123</td>
+                    <td>kosanku_home@gmail.com</td>
+                    <td>ABC : 1234567890678567</td>
+                </tr>
+            </table>
+        </article>
+    </div>
+    <!-- <aside>
+        <article class="profile card">
+            <header>
+                <h2>Data Diri</h2>
+                <figure>
+                    <img src="assets/foto/alsyam.jpg" style="width: 100%;" />
+                </figure>
+            </header>
+            <section>
+                <h3>Informasi Data Diri</h3>
+                <table>
+                    <tr>
+                        <th>Nama</th>
+                        <td>Muhammad Al Syam</td>
+                    </tr>
+                    <tr>
+                        <th>Tanggal Lahir</th>
+                        <td>24 Desember 2000</td>
+                    </tr>
+                    <tr>
+                        <th>Alamat</th>
+                        <td>Bogor</td>
+                    </tr>
+                    <tr>
+                        <th>Email</th>
+                        <td>malsyam69@gmail.com</td>
+                    </tr>
+                    <tr>
+                        <th>No Telepon</th>
+                        <td>0858 8361 7123</td>
+                    </tr>
+                </table>
+            </section>
+        </article>
+    </aside> -->
+    <!-- <script src="assets/javascript.js"></script> -->
+</main>
